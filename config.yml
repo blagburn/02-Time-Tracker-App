@@ -1,0 +1,4 @@
+default:
+  app_name: "time_tracker"
+  db:
+    dbname: 'data/hours_db.sqlite3'
